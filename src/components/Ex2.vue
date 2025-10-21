@@ -1,6 +1,4 @@
 <script>
-import { getEnabledCategories } from 'trace_events';
-
     export default { 
         // Add code in appropriate places
         data() {
